@@ -13,4 +13,3 @@ Each folder contains documentation and code related to individual projects or ca
 
 ---
 
-Let me know if you’d like this tailored with emojis removed, more minimalistic, or a more technical tone.
